@@ -502,7 +502,7 @@ cite {
 	padding: 0 10px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 40px;
-	font-weight: bold;
+	/* font-weight: bold;*/
 	text-transform: uppercase;
 }
 
