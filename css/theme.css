@@ -18,8 +18,9 @@
 	 box-shadow: 0 6px 10px 0 #666;
    transition: all 0.1s ease-in-out;
 
-   font-size: 14px;
+   font-size: 20px;
    color: white;
+	 font-family: 'Open Sans', sans-serif;
    text-align: center;
    line-height: 30px;
 
