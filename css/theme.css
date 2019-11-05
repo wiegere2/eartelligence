@@ -11,21 +11,21 @@
 *******Typography******
 **************************/
 .fab {
-   width: 200px;
+   width: 350px;
    height: 70px;
-   background-color: ##00FFFF;
-   border-radius: 10%;
+   background-color: #00FFFF;
+   border-radius: 15%;
 	 box-shadow: 0 6px 10px 0 #666;
    transition: all 0.1s ease-in-out;
 
-   font-size: 16px;
+   font-size: 12px;
    color: white;
    text-align: center;
    line-height: 70px;
 
    position: fixed;
-   right: 50px;
-   bottom: 50px;
+   right: 100px;
+   bottom: 100px;
 }
 
 .fab:hover {
