@@ -11,10 +11,10 @@
 *******Typography******
 **************************/
 .fab {
-   width: 350px;
-   height: 70px;
-   background-color: #00FFFF;
-   border-radius: 15%;
+   width: 200px;
+   height: 100px;
+   background-color: #80828A;
+   border-radius: 10%;
 	 box-shadow: 0 6px 10px 0 #666;
    transition: all 0.1s ease-in-out;
 
