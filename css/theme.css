@@ -13,12 +13,12 @@
 .fab {
    width: 200px;
    height: 100px;
-   background-color: #80828A;
+   background-color: darkred;
    border-radius: 10%;
 	 box-shadow: 0 6px 10px 0 #666;
    transition: all 0.1s ease-in-out;
 
-   font-size: 20px;
+   font-size: 14px;
    color: white;
    text-align: center;
    line-height: 70px;
